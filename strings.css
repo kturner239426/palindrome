@@ -1,0 +1,12 @@
+body
+{
+    background-image:-webkit-repeating-radial-gradient(white,magenta,black);
+
+}
+
+h1
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
